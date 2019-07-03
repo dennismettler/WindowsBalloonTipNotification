@@ -1,3 +1,3 @@
 # WindowsBalloonTipNotification
-This One-Command to sends a Windows BalloonTip Notification to the User
-You can easily include this line of code in a batchfile.
+Use this One-Command to send a Windows BalloonTip Notification to the User
+You can easily include this One-Command in the code of a batchfile.
